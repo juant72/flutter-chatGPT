@@ -1,0 +1,94 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/App.framework
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner/Runner.xcworkspace
+**/ios/Runner/.ios
+**/android/.gradle/
+**/android/app/debug.keystore
+**/android/app/*.iml
+**/android/app/secrets.properties
+**/android/gradlew
+**/android/local.properties
+**/android/gradle.properties
+**/android/gradle/
+**/android/captures/
+**/android/.idea/
+**/android/build/
+
+# Xcode specific
+**/*.pbxuser
+**/*.mode1v3
+**/*.mode2v3
+**/*.perspectivev3
+**/*.xcworkspace
+**/*.xcuserstate
+**/DerivedData/
+**/.generated/
+**/*.hmap
+**/*.xccheckout
+**/*.plist
+
+# Android Studio specific
+**/*.iml
+**/.idea/
+**/gradle/
+**/gradlew
+**/gradlew.bat
+**/local.properties
+
+# Visual Studio Code specific
+**/.vscode/
+**/.dart_tool/
+**/*.code-workspace
+
+# Flutter IntelliJ Plugin specific
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+
+# macOS specific
+**/.DS_Store
+
+# Flutter generated
+**/flutter_*.png
+**/flutter_export_environment.sh
+
+# Dart Pub package
+**/.dart_tool/
+**/.pub/
+**/pubspec.lock
+**/pubspec.yaml.*
+**/build/
+
+# Android build/gradle files
+**/build/
+**/*.apk
+**/*.ap_
+**/*.aab
+
+# iOS build files
+**/Pods/
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/Flutter.podspec
+
+# Web build files
+**/web/assets/
+**/web/flutter_service_worker.js
+**/web/js/
+
+# Miscellaneous
+**/gen/
+**/android/key.properties
+/.idea/
+.env
